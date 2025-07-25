@@ -44,11 +44,3 @@ This repository hosts a data-driven **interview response classification** projec
   Predictions are saved in `data_with_pred.csv` for interpretation and further use.
 
 ---
-
-## 🚀 Getting Started
-
-1. **Clone this repository**
-
-   ```bash
-   git clone https://github.com/Keshav1516/interview_response_classifier.git
-   cd interview_response_classifier
